@@ -6,7 +6,7 @@ SynPep-AI  is an end-to-end AI system that generates and optimizes synthetic pep
 
 
 
-&nbsp; Overview
+&nbsp; # Overview :
 
 This project demonstrates a complete AI-driven drug discovery pipeline:
 
@@ -20,33 +20,22 @@ This project demonstrates a complete AI-driven drug discovery pipeline:
 
 
 
-&nbsp;Architecture
+&nbsp;# Architecture :
 
 Peptide Data
-
 ↓
-
 Transformer Generator
-
 ↓
-
 Synthetic Peptides
-
 ↓
-
 Binding Proxy Scorer (EGFR)
-
 ↓
-
 Reinforcement Learning Feedback
-
 ↓
-
 Optimized Peptide Candidates
 
 
-
-&nbsp; Tech Stack
+&nbsp; # Tech Stack :
 
 \- Python
 
@@ -60,7 +49,7 @@ Optimized Peptide Candidates
 
 
 
-&nbsp; Project Structure
+&nbsp; # Project Structure :
 
 SynPep-AI/
 
